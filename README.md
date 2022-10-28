@@ -49,6 +49,18 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
   - [Applications](#applications)
 
 
+
+
+### 10-28-2022 Update
+
+- HF has an API for diffusion models with some nice examples in Colab: 
+https://github.com/huggingface/diffusers/tree/main/src/diffusers/pipelines 
+
+- Just want to share another great resource on latent diffusion model (LDM).  Jay Alammer wrote a nice blog post with plenty of illustrations explaining the text guided image generation process via latent diffusion models: https://jalammar.github.io/illustrated-stable-diffusion/ 
+
+- Prompt-to-prompt might be another potentially interesting work on diffusion models https://prompt-to-prompt.github.io/ in which the authors pursue an "intuitive" image editing method controlled by text edits.
+
+
 # Resources
 ## Introductory Posts
 
